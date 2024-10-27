@@ -6,8 +6,8 @@ I am deeply passionate about exploring security challenges and love working in r
 
 My core interests lie in various areas of IT security, including cloud security, Kubernetes,hardware security, network security, satellite security, embedded system security, quantum computing, container security, and IoT-Security.
 
-### Education 
-Master, Computer Science
+### About 
+I hold a Bachelor's degree in Business Informatics and subsequently began my Master's in Computer Science, focusing on IT security subjects. During my Master's studies, I am working as a research assistant at the Technical University of Darmstadt, where I deepen my knowledge and hands-on experience in security. Prior to this, I gained valuable industry experience at KPMG in IT security consulting and at the Higher Regional Court in Stuttgart, where I worked in the IT security department.
 
 ### work experience
 
