@@ -26,4 +26,8 @@ Yadav, Nikita and Vollmer, Franziska and Sadeghi, Ahmad-Reza and Smaragdakis, Ge
 Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Era.
 in: IEEE 2024 Security for Space Systems (3S)
 
-### Projects
+### CV
+
+### Contact
+E-Mail: franziska-vollmer@outlook.com
+LinkedIn: https://www.linkedin.com/in/franziska-vollmer-643195201/
