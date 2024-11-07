@@ -1,6 +1,6 @@
 # Master Student in Computer Sience
 
-I’m Franziska Vollmer, a Master's student in Computer Science at the Technical University of Darmstadt, specializing in IT security, with a particular focus on hardware and system security. Through my academic projects and research, I have gained a deep understanding of the challenges and innovations in this field.
+I’m Franziska Vollmer, a Master's student in Computer Science at the Technical University of Darmstadt in Germany, specializing in IT security, with a particular focus on hardware and system security. Through my academic projects and research, I have gained a deep understanding of the challenges and innovations in this field.
 
 I am passionate about exploring security issues and thrive in research, where there is always something new to learn and discover. The field of IT security is constantly evolving, and I’m excited by the opportunity to tackle complex problems and develop innovative solutions. My goal is to contribute to research that not only enhances security but also opens up new possibilities for efficient and secure systems.
 
@@ -27,7 +27,7 @@ Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Er
 in: IEEE 2024 Security for Space Systems (3S)
 
 ### CV
-[Download my CV](https://franziska-vollmer.github.io/assets/Franziska Vollmer-2.pdf)
+[Download my CV](https://franziska-vollmer.github.io/assets/myfile.pdf)
 
 
 ### Contact
