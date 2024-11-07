@@ -1,10 +1,10 @@
 # Master Student in Computer Sience
 
-My name is Franziska Vollmer, and I am a Master’s student in Computer Science at the Technical University of Darmstadt. My primary research focus lies in IT security, with a particular emphasis on hardware and system security. Through my projects and academic experiences, I have developed a deep understanding of the challenges and innovations within this field.
+I’m Franziska Vollmer, a Master's student in Computer Science at the Technical University of Darmstadt, specializing in IT security, with a particular focus on hardware and system security. Through my academic projects and research, I have gained a deep understanding of the challenges and innovations in this field.
 
-I am deeply passionate about exploring security challenges and love working in research, where there are always new areas to discover and learn about. The field of IT security is dynamic and constantly evolving, and I am motivated by the opportunity to dive into these complex problems and uncover innovative solutions. My goal is to contribute to groundbreaking research that not only advances security but also opens up new possibilities for secure and efficient systems.
+I am passionate about exploring security issues and thrive in research, where there is always something new to learn and discover. The field of IT security is constantly evolving, and I’m excited by the opportunity to tackle complex problems and develop innovative solutions. My goal is to contribute to research that not only enhances security but also opens up new possibilities for efficient and secure systems.
 
-My core interests lie in various areas of IT security, including cloud security, Kubernetes, hardware security, network security, satellite security, embedded system security (such as Trusted Execution Environments (TEEs) and ARM TrustZone), quantum computing, container security, and IoT security.
+My areas of interest include cloud security, Kubernetes, hardware security, network security, satellite security, embedded system security (such as Trusted Execution Environments and ARM TrustZone), quantum computing, container security, and IoT security.
 
 ### About 
 I hold a Bachelor's degree in Business Informatics and subsequently began my Master's in Computer Science, focusing on IT security subjects. During my Master's studies, I am working as a research assistant at the Technical University of Darmstadt, where I deepen my knowledge and hands-on experience in security. Prior to this, I gained valuable industry experience at KPMG in IT security consulting and at the Higher Regional Court in Stuttgart, where I worked in the IT security department.
