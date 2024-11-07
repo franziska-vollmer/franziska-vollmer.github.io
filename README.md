@@ -4,7 +4,7 @@ I’m Franziska Vollmer, a Master's student in Computer Science at the Technical
 
 I am passionate about exploring security issues and thrive in research, where there is always something new to learn and discover. The field of IT security is constantly evolving, and I’m excited by the opportunity to tackle complex problems and develop innovative solutions. My goal is to contribute to research that not only enhances security but also opens up new possibilities for efficient and secure systems.
 
-My areas of interest include cloud security, Kubernetes, hardware security, network security, satellite security, embedded system security (such as Trusted Execution Environments and ARM TrustZone), quantum computing, container security, and IoT security.
+My areas of interest include cloud security, Kubernetes, container security, hardware security, network security, satellite security, embedded system security (such as Trusted Execution Environments and ARM TrustZone), quantum computing, and IoT security.
 
 ### About 
 I hold a Bachelor's degree in Business Informatics and am currently pursuing a Master's in Computer Science with a focus on IT security. Alongside my studies, I work as a research assistant at the Technical University of Darmstadt, where I expand my expertise and practical skills in security topics. Previously, I gained industry experience in IT security consulting at KPMG and worked in the IT security department at the Higher Regional Court in Stuttgart.
