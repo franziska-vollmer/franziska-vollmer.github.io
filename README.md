@@ -27,7 +27,7 @@ Orbital Shield: Rethinking Satellite Security in the Commercial Off-the-Shelf Er
 in: IEEE 2024 Security for Space Systems (3S)
 
 ### CV
-[Download my CV](https://franziska-vollmer.github.io/assets/css/FranziskaVollmer-1.pdf)
+[Download my CV](https://franziska-vollmer.github.io/assets/css/CVFranziskaVollmer.pdf)
 
 
 ### Contact
